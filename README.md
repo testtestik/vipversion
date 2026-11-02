@@ -1,1 +1,1 @@
-# vipversion
+# NeuralEdge-vip
